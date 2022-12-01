@@ -37,9 +37,9 @@
  
 # sftp user, password and address
 #====================
-:local password "parolata_mi"
-:local username "usera_mi"
-:local ftpserver "stfp.servera.mi:porta_mu"
+:local password "sftp_password"
+:local username "sftp_user"
+:local ftpserver "my.stfp.servera:at_port"
 
 :global ftpfolder
 :global backupfile
