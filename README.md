@@ -11,7 +11,7 @@ The idea behind this decision for different folders and file names, is to have d
 Remember to add script via /System/Scripts WinBox menu and (optionaly, but recommended) to create a schedule for everyday run. 
 
 # Usage
-Add sccript via WinBox /System/Scrips menu. Create a scheduled task for runnning script
+Add script via WinBox /System/Scripts menu. Create a scheduled task for runnning script
 
 Can be run manualy via /system/scripts/run backuper
 
